@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">PopularLibraries</string>
+    <string name="app_name">HW</string>
+    <string name="user_type_header">Тип пользователя:</string>
+    <string name="user_id_header">ID пользователя:</string>
 </resources>
